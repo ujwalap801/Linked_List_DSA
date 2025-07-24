@@ -7,3 +7,7 @@
 ## [ListCycle](https://leetcode.com/problems/reverse-linked-list/)
 
 ## [Palindrome](https://leetcode.com/problems/palindrome-linked-list/)
+
+## [Intersection](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+## [RemoveLinkedList](https://leetcode.com/problems/remove-linked-list-elements/submissions/1709909829/)
