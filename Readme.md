@@ -11,3 +11,7 @@
 ## [Intersection](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
 ## [RemoveLinkedList](https://leetcode.com/problems/remove-linked-list-elements/submissions/1709909829/)
+
+## [Remove_Nth_Node](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+## [Remove_Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
