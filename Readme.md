@@ -19,3 +19,7 @@
 ## [Odd_Even_Linked_List](https://leetcode.com/problems/odd-even-linked-list/)
 
 ## [odd_Element]
+
+## [Add_Two_Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+## [Merge_Two_Sorted](https://leetcode.com/problems/merge-two-sorted-lists/description/)
