@@ -23,3 +23,5 @@
 ## [Add_Two_Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ## [Merge_Two_Sorted](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+## [Rotate_List](https://leetcode.com/problems/rotate-list/submissions/1714230747/)
